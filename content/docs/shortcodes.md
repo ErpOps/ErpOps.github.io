@@ -14,7 +14,7 @@ next: docs/folder/
 
 ## Cards
 
-# FileTree
+## FileTree
 
 {{< filetree/container >}}
   {{< filetree/folder name="content" >}}
